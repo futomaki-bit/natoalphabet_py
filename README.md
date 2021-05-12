@@ -19,6 +19,6 @@ Hotel
 Oscar
 November
 ```
-**Goal:**
+**Personal Goal:**
 
 - To test the switch-case workaround in python
