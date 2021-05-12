@@ -5,11 +5,12 @@
 *Made with Python 3*
 
 ### Example: ###
-input:
+Input:
 
 ```
 Simple nato alphabet conversion in times of difficult spelling
 ```
+Output:
 ```
 Simple nato alphabet conversion in times of difficult spelling in nato alphabet:
 Sierra
