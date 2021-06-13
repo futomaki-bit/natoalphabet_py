@@ -1,9 +1,6 @@
 # Program to convert word into nato alphabet
 from string import *
 
-print("Convert your word into nato alphabet")
-word = str(input("Enter your word now\n"))
-print()
 
 def nato(letter):
     return{
@@ -40,6 +37,10 @@ def nato(letter):
 def printnato(letter):
     print(nato(letter.lower()))
 
+
+print("Convert your word into nato alphabet")
+word = str(input("Enter your word now\n"))
+print()
 
 print(word + " in nato alphabet:")
 for letter in word:
